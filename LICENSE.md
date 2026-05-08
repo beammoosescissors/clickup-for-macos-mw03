@@ -1,4 +1,4 @@
-
+Enhance ClickUp for macOS with ClickUp for macOS smart Extension: multi-device sync & focus mode, the #1 extension. Includes multi-device sync and focus mode for a smoother
 
 
 
